@@ -37,6 +37,7 @@ A Flutter-based social media application that uses Firebase for backend function
     - Profile: View and edit user profile.
 
 ### Screenshot-
+[Watch the video](https://github.com/user-attachments/assets/3dc3879e-b116-4869-9107-f6f4c8c500c9)
 
 
 
