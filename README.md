@@ -1,16 +1,42 @@
-# dummy_socialmedia
+# Social Media App
 
-A new Flutter project.
+A Flutter-based social media application that uses Firebase for backend functionalities. This app allows users to create profiles, post updates, and interact with other users through a clean and intuitive user interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### User Management-
+  + User Registration and Login
+     - Google Login integration.
+     - Mobile number authentication.
+     - 
+### Profile Management-       
+  + User profiles with customizable details and an interactive timeline.
 
-A few resources to get you started if this is your first Flutter project:
+### Post Management-
+  + Create, edit, and delete posts.
+  + Posts can be set as Public or Private.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Timeline Features-
+  + View a timeline of posts from users you follow.
+  + Like/Dislike functionality for posts.
+  + Toggle between private and public post views (Private posts are visible only to the user who created them).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Follow System-
+   + Follow/Unfollow users.
+   + View updates from followed users on your timeline.
+
+### Firebase Integration-
+   + Firebase Authentication: Secure user login and registration.
+   + Firebase Firestore: Database for storing user profiles, posts, and relationships.
+
+### Additional Features-
+  + Intuitive bottom navigation bar for easy app navigation:
+    - Home: Timeline display.
+    - Add Friends: Follow new friends.
+    - Add Post: Create a new update.
+    - Profile: View and edit user profile.
+
+### Screenshot-
+
+
+
